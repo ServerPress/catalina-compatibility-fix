@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Catalina Compatibility Fix
-Plugin URL: https://serverpress.com/plugins/catalina-compatibility-fix
+Plugin URI: https://serverpress.com/plugins/catalina-compatibility-fix
 Description: Fixes apache restarts and patches xdebug
 Version: 1.0.0
 Author: Stephen Carnam
